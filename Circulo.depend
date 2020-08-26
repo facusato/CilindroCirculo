@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1598469268 source:c:\users\notebook\codeblock\codigo c++\circulo\main.cpp
+	<iostream>
+	"circulo.h"
+	"cilindro.h"
+
+1598469033 source:c:\users\notebook\codeblock\codigo c++\circulo\circulo.cpp
+	"circulo.h"
+	<cctype>
+	<string.h>
+
+1598468711 c:\users\notebook\codeblock\codigo c++\circulo\circulo.h
+
+1598469506 source:c:\users\notebook\codeblock\codigo c++\circulo\cilindro.cpp
+	"cilindro.h"
+
+1598468952 c:\users\notebook\codeblock\codigo c++\circulo\cilindro.h
+	"circulo.h"
+
